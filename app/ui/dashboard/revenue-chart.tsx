@@ -26,7 +26,8 @@ export default async function RevenueChart({
   return (
     <div className="w-full md:col-span-4">
       <h2 className={`${cairo.className} mb-4 text-xl md:text-2xl`}>
-الارباح السنوية      </h2>
+        Recent Revenue
+      </h2>
       {/* NOTE: Uncomment this code in Chapter 7 */}
 
       <div className="rounded-xl bg-gray-50 p-4">
